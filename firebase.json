@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/proyecto-cv",
+    "public": "dist/proy-final-cv",
     "ignore": [
       "firebase.json",
       "**/.*",
